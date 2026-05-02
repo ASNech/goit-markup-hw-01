@@ -1,5 +1,2 @@
-# goit-markup-hw-01
-
-Home work #1
-Module #1
-Theme: 'HTML basics.'
+GoIT-Markup-HW-01
+HW #1, Module #1, Th: 'HTML'
